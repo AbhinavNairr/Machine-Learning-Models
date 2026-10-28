@@ -20,7 +20,7 @@ MP3 files, extracts 169 audio features, and predicts one of eight emotions:
 ## Dataset
 
 The model uses the
-[RAVDESS emotional speech dataset](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio/data).
+[RAVDESS emotional speech dataset]([https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio/data](https://www.kaggle.com/datasets/deepathangadurai/voice-emotion-regconition)).
 
 ## Installation
 
