@@ -1,8 +1,10 @@
 pandas
 numpy
-pickle
-sklearn
+scikit-learn
 librosa
 matplotlib
 IPython
+cudf-cu13
+cuml-cu13
+tensorflow[and-cuda]
 streamlit
